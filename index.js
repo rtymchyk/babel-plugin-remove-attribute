@@ -1,4 +1,4 @@
-export default function() {
+module.exports = () => {
   return {
     visitor: {
       JSXAttribute(path, state) {

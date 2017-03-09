@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-remove-attribute",
+  "version": "0.0.1",
+  "description": "Plugin to remove a single attribute from JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtymchyk/babel-plugin-remove-attribute.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "attribute",
+    "jsx"
+  ],
+  "author": "Roman Tymchyk (rtymhyk@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtymchyk/babel-plugin-remove-attribute/issues"
+  },
+  "homepage": "https://github.com/rtymchyk/babel-plugin-remove-attribute#readme"
+}
