@@ -17,7 +17,7 @@
     "attribute",
     "jsx"
   ],
-  "author": "Roman Tymchyk (rtymhyk@gmail.com)",
+  "author": "Roman Tymchyk (rtymchyk@gmail.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rtymchyk/babel-plugin-remove-attribute/issues"
