@@ -1,4 +1,4 @@
-# babel-plugin-remove-attribute [![CircleCI](https://circleci.com/gh/rtymchyk/babel-plugin-remove-attribute.svg?style=svg)](https://circleci.com/gh/rtymchyk/babel-plugin-remove-attribute)
+# babel-plugin-remove-attribute [![CircleCI](https://circleci.com/gh/rtymchyk/babel-plugin-remove-attribute.svg?style=svg)](https://circleci.com/gh/rtymchyk/babel-plugin-remove-attribute) [![npm version](https://badge.fury.io/js/babel-plugin-remove-attribute.svg)](https://badge.fury.io/js/babel-plugin-remove-attribute)
 Plugin to remove a single attribute from JSX.
 
 ## Usage (.babelrc)
