@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-remove-attribute",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "description": "Plugin to remove a single attribute from JSX",
   "main": "plugin.js",
   "scripts": {
